@@ -5,7 +5,7 @@ export default function Blog() {
     <div>
       <h1>Contact Me</h1>
       <p>
-        Email: marrowdaisha@gmail.com
+        Email: marrowdaisha@gmail.com/
       </p>
     </div>
   );
